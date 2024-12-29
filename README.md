@@ -1,2 +1,1 @@
-# redes-neuronales-convolucionales
-Redes neuronales convolucionales (CNN)
+El objetivo de este proyecto es desarrollar un sistema capaz de clasificar imágenes en diferentes categorías utilizando redes neuronales convolucionales (CNN). Este enfoque es eficaz para tareas de visión por computadora debido a su capacidad para aprender características jerárquicas de las imágenes.
